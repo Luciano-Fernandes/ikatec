@@ -1943,6 +1943,7 @@ body {
 }
 .cid-ru3pGNJAC6 .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-ru3pGNJAC6 .card-wrapper {
   height: 100%;
@@ -1954,6 +1955,9 @@ body {
 .cid-ru3pGNJAC6 .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-ru3pGNJAC6 .card-title {
+  text-align: center;
 }
 .cid-ru3ECm66uH {
   padding-top: 90px;
@@ -2878,6 +2882,9 @@ body {
     padding-left: 0;
     padding-top: 2rem;
   }
+}
+.cid-rKllcbESzm .panel-text {
+  color: #232323;
 }
 .cid-rKEvFe6ISn {
   padding-top: 90px;
